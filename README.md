@@ -20,5 +20,5 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javivilladamigo&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/javivilladamigo/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javivilladamigo&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
