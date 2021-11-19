@@ -14,11 +14,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-
-<a href="https://github.com/javivilladamigo/readme-stats">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=radical)" />
-</a>
-<a href="https://github.com/javivilladamigo/readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+[![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=javivilladamigo&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javivilladamigo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
