@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=javivilladamigo&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javivilladamigo&langs_count=8&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javivilladamigo&langs_count=8&show_icons=true&theme=radical&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
