@@ -2,10 +2,6 @@
 
 Welcome to my GitHub profile, hope you find something useful 😊.
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="javivilladamigo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/javivilladamigo?trk=profile-badge">Javier Mariño</a></div>
-              
-              
 ![visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=javivilladamigo&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
 [![Javier's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javivilladamigo)
 [![Javier's Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/javivilladamigo)
