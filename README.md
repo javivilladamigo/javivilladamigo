@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 ![visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=javivilladamigo&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
 
 [![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=javivilladamigo&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javivilladamigo&langs_count=8&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javivilladamigo&langs_count=8&show_icons=true&theme=radical&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
