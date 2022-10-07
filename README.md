@@ -15,8 +15,6 @@ Welcome to my GitHub profile, I hope you find something useful.
 <div align="left"> 
 <a href="https://github.com/javivilladamigo">
   <img height=180 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=javivilladamigo&theme=vue&layout=compact&count_private=true&include_all_commits=true&langs_count=6&hide_border=1&card_width=20" alt="Javier's Language stats" />
-<a href="https://github.com/javivilladamigo">
-  <img height=180 src="(https://github-readme-stats.vercel.app/api?username=javivilladamigo&show_icons=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)" alt="Javier's Github stats" />
-</a>
-</div>
   
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=javivilladamigo&show_icons=true&hide_border=1&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats" alt = "Javier's GitHub stats" />
+  </div>
